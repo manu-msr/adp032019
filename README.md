@@ -19,5 +19,6 @@ Manipular datos, *dataframse*, series, valores numéricos con álgebra lineal, g
 
 | Fecha | Tema                                             | Material |
 |-------|--------------------------------------------------|----------|
-| 10/02 | Introducción a Python                            | [Sesión 1](Sesion-01/) |
-| 12/02 | Herramientas de Data Scientist                   | [Sesión 2](Sesion-02/) |
+| 10/02 | Introducción a Python                            | [Sesión 1](Sesion-01/Readme.md) |
+| 12/02 | Herramientas de Data Scientist                   | [Sesión 2](Sesion-02/Readme.md) |
+| 17/02 | NumPy para Data Science                          | [Sesión 3](Sesion-03/Readme.md) |
