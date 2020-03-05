@@ -27,5 +27,5 @@ Manipular datos, *dataframse*, series, valores numéricos con álgebra lineal, g
 | 26/02 | Visualización de datos con MatPlotLib               | [Sesión 6](Sesion-06/Readme.md) |
 | 03/03 | Regresión Lineal con Python                         | [Sesión 7](Sesion-07/Readme.md) |
 | 04/03 | Clasificación con Python                            | [Sesión 8](Sesion-08/Readme.md) |
-| 11/03 | Círculo de estudio                                  | |
+| 11/03 | Círculo de estudio                                  | [Plantilla](plantilla.md)|
 | 12/03 | *Checkpoint*                                        | |
